@@ -21,11 +21,8 @@ The interface of the site is designed to be simple, intuitive, and interactive. 
 2. **Map**: The central feature of the site, displaying satellite imagery and allowing users to interact with it.
 3. **Location Info Box**: Displays detailed information about the selected location, including the name, latitude, and longitude.
 4. **Control Buttons**: Includes zoom in, zoom out, and toggle view options to enhance user experience.
-5. **Footer Section**: Displays links to my GitHub repository and credits for the project.
 
 ![Satellite View](assets/screenshot.png)  
-
-*(Replace this with an actual screenshot of your site)*
 
 ## 🛠️ Installation
 
